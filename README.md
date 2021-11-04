@@ -1,0 +1,3 @@
+- 👋 Hi, I’m a Human Web-devoloper @Lyoxs
+- 👀 I’m interested in knowledge
+- 🌱 I’m currently learning Web-development
